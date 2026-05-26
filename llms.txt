@@ -1,0 +1,11 @@
+# Paperclip Company Ops
+
+Paperclip Company Ops is a SaaS workspace for Paperclip AI.
+
+Website: https://paperclipcompany.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Paperclip AI
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
